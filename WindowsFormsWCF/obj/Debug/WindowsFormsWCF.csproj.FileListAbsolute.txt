@@ -1,0 +1,9 @@
+C:\Users\Pavilion\source\repos\WindowsFormsWCF\WindowsFormsWCF\bin\Debug\WindowsFormsWCF.exe.config
+C:\Users\Pavilion\source\repos\WindowsFormsWCF\WindowsFormsWCF\bin\Debug\WindowsFormsWCF.exe
+C:\Users\Pavilion\source\repos\WindowsFormsWCF\WindowsFormsWCF\bin\Debug\WindowsFormsWCF.pdb
+C:\Users\Pavilion\source\repos\WindowsFormsWCF\WindowsFormsWCF\obj\Debug\WindowsFormsWCF.csprojAssemblyReference.cache
+C:\Users\Pavilion\source\repos\WindowsFormsWCF\WindowsFormsWCF\obj\Debug\WindowsFormsWCF.Form1.resources
+C:\Users\Pavilion\source\repos\WindowsFormsWCF\WindowsFormsWCF\obj\Debug\WindowsFormsWCF.Properties.Resources.resources
+C:\Users\Pavilion\source\repos\WindowsFormsWCF\WindowsFormsWCF\obj\Debug\WindowsFormsWCF.csproj.GenerateResource.cache
+C:\Users\Pavilion\source\repos\WindowsFormsWCF\WindowsFormsWCF\obj\Debug\WindowsFormsWCF.exe
+C:\Users\Pavilion\source\repos\WindowsFormsWCF\WindowsFormsWCF\obj\Debug\WindowsFormsWCF.pdb
